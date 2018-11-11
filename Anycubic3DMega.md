@@ -1,6 +1,7 @@
 # Anycubic 3D Mega
 ## Einstellungen Cura
 Sry. Mein Cura ist Englisch. Ich habe daher die Begriffe genutzt.
+
 | Einstellung | Wert | Empfehlung |
 | --- | --- | --- |
 | Layer Height | 0.12-0.28 (in 0.04er Schritten). | 0.2 |
@@ -12,3 +13,8 @@ Sry. Mein Cura ist Englisch. Ich habe daher die Begriffe genutzt.
 | Print Speed | 50mm/s | 50mm/s |
 | Travel Speed | 100mm/s | 100mm/s |
 | Cooling | ja | ja |
+
+## Einstellungen Slic3r PE
+siehe (/Slic3rPE/)
+###ToDo
+- Slic3r Konfigurationsdateien überarbeiten
