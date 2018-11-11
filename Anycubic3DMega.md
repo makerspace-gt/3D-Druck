@@ -15,7 +15,6 @@ Sry. Mein Cura ist Englisch. Ich habe daher die Begriffe genutzt.
 | Cooling | ja | ja |
 
 ## Einstellungen Slic3r PE
-siehe [Slic3rPE](/Slic3rPE/)
-
-###ToDo
+siehe [Slic3rPE](/Slic3rPE/) 
+#### ToDo
 - Slic3r Konfigurationsdateien überarbeiten
